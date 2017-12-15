@@ -1,5 +1,5 @@
 stscourse name
-addison git
+Tommy git
 connie riskbasedtesting
 thomas bbtesting
 
